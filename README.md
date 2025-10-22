@@ -1,5 +1,5 @@
 # Simple-Login-Screen
-<br> https://thaong2005.github.io/Simple-Login-Screen/
+<br> https://thaong2005.github.io/Simple-Login-Screen/ <br>
 A simple "Login Screen", using HTML, CSS and Javascript
 
 🚀 Features
